@@ -1,6 +1,4 @@
 import java.util.Scanner;
-
-import javax.annotation.processing.SupportedOptions;
 public class main
 {
     public static void main(String []args)
