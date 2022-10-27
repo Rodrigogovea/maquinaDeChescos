@@ -179,5 +179,6 @@ public class main
             }
 
         }while(opc!=4);
+        lector.close();
     }
 }
